@@ -12,8 +12,8 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from PIL import Image
 
-API_KEY = '63bde2892bef6c2f6e7bfd5cdbe17c62104f433b320670c374854b1a88255c6f'
-BOT_TOKEN = '8152524170:AAGnd3ZifJmhwIBImJG0_WaRBNuk7LK7NXQ'
+API_KEY = ''
+BOT_TOKEN = ''
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
